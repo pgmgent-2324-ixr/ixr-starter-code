@@ -22,7 +22,7 @@
 ### Project Settings
 
 1. In `package.json`, change the value of `homepage`.
-2. Replace the part `«github-account-name»` with your own GitHub account name. E.g. `/fpp-«github-account-name»` → `/fpp-OlivierParent`
+2. Replace the part `«github-account-name»` with your own GitHub account name. E.g. `/ixr-«github-account-name»` → `/ixr-OlivierParent`
 
 ### Build and Push
 
